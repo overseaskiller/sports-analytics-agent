@@ -1,0 +1,10 @@
+player,date,stat,value,team,opponent
+Demo NBA Player,2026-10-01,points,21,AAA,BBB
+Demo NBA Player,2026-10-03,points,25,AAA,CCC
+Demo NBA Player,2026-10-05,points,18,AAA,DDD
+Demo NBA Player,2026-10-07,points,28,AAA,EEE
+Demo NBA Player,2026-10-09,points,23,AAA,FFF
+Demo NFL Player,2026-09-06,receiving_yards,65,GGG,HHH
+Demo NFL Player,2026-09-13,receiving_yards,82,GGG,III
+Demo NFL Player,2026-09-20,receiving_yards,48,GGG,JJJ
+Demo NFL Player,2026-09-27,receiving_yards,91,GGG,KKK
